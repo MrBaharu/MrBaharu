@@ -34,6 +34,6 @@ im using arch btw
 <h3 align="left">📊 My GitHub Stats:</h3>
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MrBaharu&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="180" style="margin-right: 15px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBaharu&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="180" style="margin-right: 50px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaharu&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="180" />
 </p>
