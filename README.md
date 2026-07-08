@@ -1,6 +1,6 @@
 👋 Mister is here..
 
-im using arch btw
+## 👻 im using arch btw
 
 
 
