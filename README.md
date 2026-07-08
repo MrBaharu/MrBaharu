@@ -39,5 +39,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=MrBaharu&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="180" style="margin-right: 15px;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaharu&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="180" />
+  
+  <img src="https://github-readme-lang-cards.vercel.app/api/top-langs/?username=MrBaharu&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="180" />
 </p>
